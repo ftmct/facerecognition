@@ -1,2 +1,2 @@
 # facerecognition
-Advances in AI Project
+Uni project for Advances in Intelligent Systems
